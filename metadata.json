@@ -1,0 +1,6 @@
+{
+  "name": "SYSCORE Performance Dashboard",
+  "description": "Bảng điều khiển quản lý hiệu suất Project Manager (PM) chuyên nghiệp, tích hợp biểu đồ trực quan, theo dõi chiến dịch, nhân sự và hệ thống thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
